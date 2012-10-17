@@ -1,0 +1,50 @@
+body 
+{
+  font-family: Verdana; 
+  font-size: 13px; 
+  background-color:#BC5ABC;
+  }
+   
+h1 
+{ 
+  color:#FF0000; 
+  font-size: 50px; 
+  font-family: Arial; 
+  text-align: center; 
+  background-color:#086A87; 
+  padding:10px; margin:10px;
+  }
+  
+h2 
+{ 
+  font-size: 50px; 
+  font-family: 'Carrois Gothic', sans-serif; 
+  font-family: 'Sofadi One', cursive; 
+  margin:10px;
+  }
+  
+p 
+{
+  background-color:#8A4B08; 
+  font-size: 20px; 
+  font-family:sans-serif;
+  }
+
+#container 
+{ 
+  width: 300px; 
+  min-height: 100px; 
+  background-color:#666; 
+  border: 2px solid #FFFF00; 
+  margin:auto; 
+  margin-top:20px; } 
+
+#content 
+{ 
+  width: 300px; 
+  min-height: 100px; 
+  background-color:#5E610B; 
+  border: 2px solid #FFFF00; 
+  margin:auto; 
+  margin-top:20px;}
+  
