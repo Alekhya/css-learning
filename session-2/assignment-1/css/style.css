@@ -4,7 +4,7 @@
   
 }
 .header {
-	background-color: #8A0808;
+  background-color: #8A0808;
 }
 
 .header h1 {
@@ -23,29 +23,29 @@
 
 
 .left {
-	float: left;
+  float: left;
 }
 
 .right{
-	float: right;
+  float: right;
 }
 
 .left-content {
-	width: 150px;
-	color: #ccc;
-	margin: 20px 0 0 30px;
+  width: 150px;
+  color: #ccc;
+  margin: 20px 0 0 30px;
 }
 .left-content li{
-	border-bottom: 1px solid #ccc;
-	padding: 5px 0 5px;
+  border-bottom: 1px solid #ccc;
+  padding: 5px 0 5px;
 }
 
 .right-content {
-	width: 520px;
-	height: 500px;
-	background-color: #eee;
-	border: 10px solid #999;
-	padding: 20px 0 10px 10px;
+  width: 520px;
+  height: 500px;
+  background-color: #eee;
+  border: 10px solid #999;
+  padding: 20px 0 10px 10px;
 }
 
 .right-content h2 {
@@ -56,47 +56,45 @@
 }
 
 .box {
-	color: red;
-	font-size: 15px;	
+  color: red;
+  font-size: 15px;	
 }
 
-
-
 .box-b ul {
-	background-color: #FBF5EF;
-	width: 498px;
-	height: 200px;
-	padding: 10px;
+  background-color: #FBF5EF;
+  width: 498px;
+  height: 200px;
+  padding: 10px;
 }
 
 .box-b li {
   float: left;
-	width: 100px;
-	height: 120px;
-	background-color: #ccc;
-	padding: 8px 8px 20px 6px;
-	margin: 5px 5px 5px 5px;
-	border: 1px #999;
+  width: 100px;
+  height: 120px;
+  background-color: #ccc;
+  padding: 8px 8px 20px 6px;
+  margin: 5px 5px 5px 5px;
+  border: 1px #999;
 }
 
 b { 
   float: left;
   font-size: 30px;
-	color: red;
-	font-size: 10px;
+  color: red;
+  font-size: 10px;
 }
 
 span {
-	float: left;
-	font-size: 15px;
-	color: white;
+  float: left;
+  font-size: 15px;
+  color: white;
 }
 
 i {
-	float: left;
-	font: italic;
-	font-size: 15px;
-	color: white;
+  float: left;
+  font: italic;
+  font-size: 15px;
+  color: white;
 }
 .clear {
   clear: both;
